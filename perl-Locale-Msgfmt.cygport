@@ -3,8 +3,10 @@ inherit perl
 
 NAME="perl-Locale-Msgfmt"
 VERSION=0.15
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl implementation of msgfmt(1)"
 DESCRIPTION="Locale::Msgfmt is a pure Perl reimplementation of msgfmt from GNU
 gettext-tools."
+
+ARCH=noarch
